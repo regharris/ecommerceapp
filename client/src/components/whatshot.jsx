@@ -73,7 +73,7 @@ function Cards() {
         "perfect build". We supply the highest quality auto parts that are
         available in the United States. We are dedicated and provide 24 hour
         customer service to all customers. THANK YOU ! for visiting power lab,
-        be sure to subscribe for all updates, discounts and more!
+        be sure to subscribe for all updates, discounts and more!!
       </section>
     </div>
   );

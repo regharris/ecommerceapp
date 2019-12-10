@@ -404,3 +404,8 @@
 [0mGET /api/productfilter/Exterior [32m200 [0m16.760 ms - 1083[0m
 [0mGET /api/pricefilter/1000 [32m200 [0m1.394 ms - 1756[0m
 [0mGET /api/pricefilter/3000 [32m200 [0m16.091 ms - 3730[0m
+[0mGET /api/productfilter/Performance [32m200 [0m15.580 ms - 3254[0m
+[0mGET /api/pricefilter/300 [32m200 [0m2.490 ms - 337[0m
+[0mGET /api/productfilter/Exterior [32m200 [0m3.147 ms - 1083[0m
+[0mGET /api/pricefilter/1000 [32m200 [0m1.213 ms - 1756[0m
+[0mGET /api/pricefilter/3000 [32m200 [0m22.082 ms - 3730[0m
